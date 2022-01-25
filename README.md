@@ -10,7 +10,7 @@
 
 ```bash
 # 克隆项目
-git clone
+git clone https://github.com/Jeffrey-Ge/v3-upload-neaf.git
 
 # 进入项目目录
 cd vue3-element-admin
